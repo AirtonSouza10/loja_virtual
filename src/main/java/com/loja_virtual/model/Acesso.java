@@ -34,4 +34,6 @@ public class Acesso implements GrantedAuthority {
 		return null;
 	}
 
+	public Acesso() {
+	}
 }
